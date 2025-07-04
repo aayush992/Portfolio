@@ -96,7 +96,7 @@ const Contact = () => {
     {
       icon: <Linkedin size={20} />,
       label: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/aayush-saini-91527119b/',
+      url: 'https://www.linkedin.com/in/aayush-saini-193921259/',
       color: '#0077B5'
     }
   ]
