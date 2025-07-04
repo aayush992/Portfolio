@@ -64,8 +64,8 @@ const Contact = () => {
 
   const handleResumeDownload = () => {
     const link = document.createElement('a')
-    link.href = '/aayush_resume.pdf' // You would replace this with your actual resume file
-    link.download = 'aayush_resume.pdf'
+    link.href = '/Aayush_resume.pdf'
+    link.download = 'Aayush_resume.pdf'
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)
