@@ -81,7 +81,7 @@ src/
 
 - **Email:** aayushsaini915@gmail.com
 - **GitHub:** [aayush992](https://github.com/aayush992)
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/aayush-saini)
+- **LinkedIn:** [Aayush Saini](https://www.linkedin.com/in/aayush-saini-193921259/)
 
 ## 📄 License
 
